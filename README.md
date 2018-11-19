@@ -1,8 +1,5 @@
 # Overview
-We at Uber are planning to explore and contribute to OpenStreetMap in Colombia. This project will be an internal analysis for evaluation only. 
-This project won't involve any public display of OSM data in any Uber application or service. We do not plan to make any large-scale, machine generated edits for this project. 
-All edits will be made by a small team of individuals based in Palo Alto, California, USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. 
-The edits will be made according to the Organized Editing Best Practices. In addition, Uber employees based in Colobia will be able to participate in this project by leveraging their local knowledge to help identify data issues. 
+We at Uber are planning to explore and contribute to OpenStreetMap in Colombia. This project will be an internal analysis for evaluation only. This project won't involve any public display of OSM data in any Uber application or service. We do not plan to make any large-scale, machine generated edits for this project. All edits will be made by a small team of individuals based in Palo Alto, California, USA. The team will be using the available data sources in the JOSM tool for their corrections and validations. The edits will be made according to the Organized Editing Best Practices. In addition, Uber employees based in Colombia will be able to participate in this project by leveraging their local knowledge to help identify data issues. 
 
 For this project, our team will focus on adding and modifying the following OSM features: 
 1. Road network includes (Class, Turn restriction, Directionality etc)
@@ -12,7 +9,7 @@ For this project, our team will focus on adding and modifying the following OSM 
 The edits will be made according to the [Organized Editing Best Practices](https://wiki.openstreetmap.org/wiki/Organized_Editing_Best_Practice).
 
 # Data sources
-All available data sources in the JOSM tool for New Zealand.
+All available data sources in the JOSM tool for Colombia.
 
 # Tools
 We will use [JOSM](https://josm.openstreetmap.de/) to make these edits.
