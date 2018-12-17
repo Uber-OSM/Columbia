@@ -21,6 +21,7 @@ The team will use the change-set comments as per the [OSM Changeset Guidelines](
 All changes will undergo a verification process before submission.
 
 # Team
+[Here] (https://github.com/Uber-OSM/DataTeam) is the link to our data team.
  1. [Colin](https://www.openstreetmap.org/user/Ironman324)
  2. [Nova](https://www.openstreetmap.org/user/CaptainVietnam)
  3. [Mark](https://www.openstreetmap.org/user/AntMan24)
